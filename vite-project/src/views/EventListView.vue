@@ -73,10 +73,14 @@ onMounted(() => {
 
 #page-prev {
   text-align: left;
+  text-decoration: none;
+  color: #3aac1a;
 }
 
 #page-next {
   text-align: right;
+  text-decoration: none;
+  color: #f00e37;
 }
 
 </style>
